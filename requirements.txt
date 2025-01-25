@@ -8,3 +8,4 @@ certifi
 #pymongo
 dill
 pyaml
+mlflow
